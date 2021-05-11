@@ -10,4 +10,4 @@ or
 
 python "camera face detection.py" haarcascade_eye_detection.xml  
 
-![Optional Text](../main/result/Eye Detection.png)
+![Optional Text](../main/result/Eye Detection.PNG)
