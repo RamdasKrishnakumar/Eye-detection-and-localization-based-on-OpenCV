@@ -9,3 +9,5 @@ python "camera face detection.py" haarcascade_face_detection.xml
 or 
 
 python "camera face detection.py" haarcascade_eye_detection.xml  
+
+My outcomes are in results folder
